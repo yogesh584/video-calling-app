@@ -1,4 +1,4 @@
-# PeerChat
+# Video calling app
 A peer to peer WebRTC application with controls
 
 # Installation
